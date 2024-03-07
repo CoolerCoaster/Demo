@@ -15,7 +15,7 @@ import javax.swing.DefaultComboBoxModel;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-
+// double edited
 public class MovieApp {
 
 	private JFrame frame;
